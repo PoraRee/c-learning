@@ -22,12 +22,12 @@ Quiz quizzes[] = {
         "return 0;"
     },
     {
-        "What printf() function does in C?",
+        "What printf() function does in C?\n",
         {"It reads input from the user.", "It allocates memory for variables.", "It terminates the program."},
         "It prints the output to the console."
     },
     {
-        "Why main function is important in C?",
+        "Why main function is important in C?\n",
         {"It is used to declare variables.", "It is used to include libraries.", "It is used to define data types."},
         "It is the entry point of the program where execution starts."
     }
