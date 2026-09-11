@@ -6,3 +6,7 @@
 
 you can check example code from [here](../../code/01_hello_world/01_01_hello_world.c)
 
+[Go to quiz](../../quiz/01_hello_world/01_quiz.c)
+
+[Back]
+[Next]
