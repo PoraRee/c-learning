@@ -39,5 +39,5 @@ you can check example code from [here](../code/02_01_data_types.c)
 
 [Go to quiz](../quiz/02_quiz.c)
 
-[Back]
-[Next](../../02_data_types/./documents/02_01_data_types.md)
+[Back](../../01_hello_world/documents/01_01_hello_world.md)
+[Next](../../03_user_input/documents/03_01_user_input.md)
