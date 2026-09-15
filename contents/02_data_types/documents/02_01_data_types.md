@@ -12,7 +12,7 @@
   - **double**: decimal numbers with 12 decimal digits (more precise)
   - **char**: stores a single character
   - **bool**: stores True or False value
-  - **void**: no value or empty type, used in functions that do not return any value.
+  - **void**: no value or empty type, mostly `used in functions that do not return any value.
 - Derived Data Types
   - **array**: stores multiple values of the same data type in contiguous memory locations. Each element is accessed using an index, starting from 0.
   - **pointer**: stores the memory address of another variable
