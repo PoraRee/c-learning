@@ -36,7 +36,7 @@ you can check example code below
  - [pass-by-value_and_pass-by-reference_example](../code/03_02_param_pass_mech.c)
  - [scanf_multiple_inputs](../code/03_03_multiple_inputs.c)
 
-[Go to quiz](../quiz/02_quiz.c)
+[Go to quiz](../quiz/03_quiz.c)
 
-[Back]
-[Next](../../02_data_types/./documents/02_01_data_types.md)
+[Back](../../02_data_types/documents/02_01_data_types.md)
+[Next]()

@@ -52,7 +52,7 @@ Quiz quizzes[] = {
         "To store single characters."
     },
     {
-        "What is this code display to stdout?\n\n"
+        "What does this code display to stdout??\n\n"
         "```main.c\n"
         "#include<stdio.h>\n"
         "int main() {\n"
