@@ -8,7 +8,7 @@
 Quiz quizzes[] = {
     {
         "Fill in the blank to code can run properly in C:\n\n"
-        "```main.c"
+        "```main.c\n"
         "#include<stdio.h>\n"
         "int main(){\n"
         COLOR_YELLOW "    [######]" COLOR_RESET " my_value = 5;\n"
@@ -98,7 +98,7 @@ Quiz quizzes[] = {
         {
             "The program will throw a compilation error.",
             "The value will be displayed correctly as a floating-point number.",
-            "The value will be displayed as a random integer."
+            "The value will be truncated (decimal part removed).",
         },
         "The value will be displayed as a random integer."
     },
